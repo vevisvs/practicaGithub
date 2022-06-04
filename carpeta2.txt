@@ -1,2 +1,3 @@
+jijij
 Hola, este es mi segundo archivo modificado por nano.
-Vamos bien. 
+Vamos bien.
